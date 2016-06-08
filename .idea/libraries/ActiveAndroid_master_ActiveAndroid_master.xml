@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="ActiveAndroid-master.ActiveAndroid-master">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/ActiveAndroid-master/build/libs/ActiveAndroid-master.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
